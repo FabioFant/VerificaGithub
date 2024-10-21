@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+// Commento
+
+using System.Diagnostics;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
