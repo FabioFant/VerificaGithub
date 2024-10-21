@@ -15,11 +15,11 @@ namespace WpfAppBiblioteca
         private string _editore;
         private int _numeroDiPagine;
 
-        private string Autore { get { return _autore; } }
-        private string Titolo { get { return _titolo; } }
-        private int AnnoDiPubblicazione { get { return _annoDiPubblicazione; } }
-        private string Editore { get { return _editore; } }
-        private int NumeroDiPagine { get { return _numeroDiPagine; } }
+        public string Autore { get { return _autore; } }
+        public string Titolo { get { return _titolo; } }
+        public int AnnoDiPubblicazione { get { return _annoDiPubblicazione; } }
+        public string Editore { get { return _editore; } }
+        public int NumeroDiPagine { get { return _numeroDiPagine; } }
 
         public Libro(string autore, string titolo, int annoDiPubblicazione, string editore, int numeroDiPagine)
         {

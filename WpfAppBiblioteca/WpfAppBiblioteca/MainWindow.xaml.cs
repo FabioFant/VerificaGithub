@@ -17,9 +17,7 @@ namespace WpfAppBiblioteca
     /// </summary>
     public partial class MainWindow : Window
     {
-        static string nome;
-        static string apertura;
-        static string chiusura;
+        static Biblioteca biblioteca = new Biblioteca("", "", "");
 
         public MainWindow()
         {
