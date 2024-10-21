@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\fabio.fantini\\Documents\\VerificaGithub\\WpfAppBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{785D3BD8-0C0E-4BC6-B542-FA83950813BF}|WpfAppBiblioteca\\WpfAppBiblioteca.csproj|c:\\users\\fabio.fantini\\documents\\verificagithub\\wpfappbiblioteca\\wpfappbiblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{785D3BD8-0C0E-4BC6-B542-FA83950813BF}|WpfAppBiblioteca\\WpfAppBiblioteca.csproj|solutionrelative:wpfappbiblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{785D3BD8-0C0E-4BC6-B542-FA83950813BF}|WpfAppBiblioteca\\WpfAppBiblioteca.csproj|c:\\users\\fabio.fantini\\documents\\verificagithub\\wpfappbiblioteca\\wpfappbiblioteca\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{785D3BD8-0C0E-4BC6-B542-FA83950813BF}|WpfAppBiblioteca\\WpfAppBiblioteca.csproj|solutionrelative:wpfappbiblioteca\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -27,19 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\fabio.fantini\\Documents\\VerificaGithub\\WpfAppBiblioteca\\WpfAppBiblioteca\\Libro.cs",
-              "RelativeDocumentMoniker": "WpfAppBiblioteca\\Libro.cs",
-              "ToolTip": "C:\\Users\\fabio.fantini\\Documents\\VerificaGithub\\WpfAppBiblioteca\\WpfAppBiblioteca\\Libro.cs",
-              "RelativeToolTip": "WpfAppBiblioteca\\Libro.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAABvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T06:23:45.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\fabio.fantini\\Documents\\VerificaGithub\\WpfAppBiblioteca\\WpfAppBiblioteca\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfAppBiblioteca\\MainWindow.xaml",
@@ -51,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\fabio.fantini\\Documents\\VerificaGithub\\WpfAppBiblioteca\\WpfAppBiblioteca\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfAppBiblioteca\\MainWindow.xaml.cs",
